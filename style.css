@@ -1,0 +1,19 @@
+body {
+    font-family: 'Space Mono', monospace;
+}
+
+.btn {
+    background-color: darkkhaki;
+    border: none;
+    box-shadow: 5px 5px lightgray;
+    font-family: 'Space Mono', monospace;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 15px;
+}
+
+.btn-primary {
+    background-color: darkblue;
+    color: white;
+}
+
